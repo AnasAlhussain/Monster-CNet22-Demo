@@ -7,7 +7,7 @@
             string input = "";
             try
             {
-                input = File.ReadAllText(@"monsters.txt");
+                input = File.ReadAllText(@"C:\Users\anasq\source\repos\Monster-CNet22-Demo\monsters.txt");
 
             }
             catch
